@@ -46,3 +46,4 @@ C:\Users\nelso\OneDrive\Desktop\FiftyFifty2.0\fiftyfifty\obj\Debug\net8.0\FiftyF
 C:\Users\nelso\OneDrive\Desktop\FiftyFifty2.0\fiftyfifty\obj\Debug\net8.0\FiftyFifty.genruntimeconfig.cache
 C:\Users\nelso\OneDrive\Desktop\FiftyFifty2.0\fiftyfifty\obj\Debug\net8.0\ref\FiftyFifty.dll
 C:\Users\nelso\OneDrive\Desktop\FiftyFifty2.0\fiftyfifty\bin\Debug\net8.0\clickCounts.json
+C:\Users\nelso\OneDrive\Desktop\FiftyFifty2.0\fiftyfifty\obj\Debug\net8.0\FiftyFifty.sourcelink.json

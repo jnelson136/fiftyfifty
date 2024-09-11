@@ -12,7 +12,7 @@ public class Program
         // Add services to the container.
         builder.Services.AddCors(options =>
         {
-            options.AddPolicy("AllowAllOrigins", builder =>
+            options.AddPolicy("CorsPolicy", builder =>
             {
                 builder.AllowAnyMethod()
                        .AllowAnyHeader()

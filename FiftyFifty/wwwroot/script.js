@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', async () => {
 });
 
 let connection = new signalR.HubConnectionBuilder()
-    .withUrl("https://fiftyfifty-e5h0cgdvbbgvhtf9.westus-01.azurewebsites.net/clickHub")
+    .withUrl("http://localhost:5138/clickHub")
     .build();
 
 // Start connection to SignalR hub
@@ -46,7 +46,7 @@ function stopTimer() {
 // updateCounters();
 
 async function updateCounters() {
-    let response = await fetch('https://fiftyfifty-e5h0cgdvbbgvhtf9.westus-01.azurewebsites.net/api/click');
+    let response = await fetch('http://localhost:5138/api/click');
     let data = await response.json();
 
     countA = data.countA;
@@ -71,7 +71,7 @@ async function updateCounters() {
 }
 
 document.getElementById('buttonA').addEventListener('click', async () => {
-    await fetch('https://fiftyfifty-e5h0cgdvbbgvhtf9.westus-01.azurewebsites.net/api/click/clickA', { method: 'POST'});
+    await fetch('http://localhost:5138/api/click/clickA', { method: 'POST'});
     updateCounters();
 });
 
@@ -92,7 +92,7 @@ function updateBalanceProgress() {
 }
 
 document.getElementById('buttonB').addEventListener('click', async () => {
-    await fetch('https://fiftyfifty-e5h0cgdvbbgvhtf9.westus-01.azurewebsites.net/api/click/clickB', { method: 'POST'});
+    await fetch('http://localhost:5138/api/click/clickB', { method: 'POST'});
     updateCounters();
 });
 
