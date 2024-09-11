@@ -1,0 +1,6 @@
+@FiftyFifty_HostAddress = http://localhost:5138
+
+GET {{FiftyFifty_HostAddress}}/api
+Accept: application/json
+
+###

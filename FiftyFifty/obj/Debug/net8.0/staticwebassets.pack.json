@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\nelso\\OneDrive\\Desktop\\FiftyFifty2.0\\fiftyfifty\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\nelso\\OneDrive\\Desktop\\FiftyFifty2.0\\fiftyfifty\\wwwroot\\script.js",
+      "PackagePath": "staticwebassets\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\nelso\\OneDrive\\Desktop\\FiftyFifty2.0\\fiftyfifty\\wwwroot\\styles.css",
+      "PackagePath": "staticwebassets\\styles.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FiftyFifty.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FiftyFifty.props",
+      "PackagePath": "build\\FiftyFifty.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FiftyFifty.props",
+      "PackagePath": "buildMultiTargeting\\FiftyFifty.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FiftyFifty.props",
+      "PackagePath": "buildTransitive\\FiftyFifty.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
