@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qo8BVNqYaejLBwvwpQy2ytlwYgsbevS5eNeV5yyxVHr4/YSaA2XXxefqzuAi0JzsNwMZC3ypJcLP/n9nQP60/w==",
+  "dgSpecHash": "YVXp/r1ppVITzFw3Ino+GX1UZJT+TM3/vkz06O0yf81xBhePMcxgef1qOILaVe7ZavEaQ0+rgKj6ckb+90wfvA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nelso\\OneDrive\\Desktop\\FiftyFifty2.0\\fiftyfifty\\FiftyFifty.csproj",
+  "projectFilePath": "C:\\Users\\nelso\\OneDrive\\Desktop\\FiftyFifty2.0\\FiftyFifty\\FiftyFifty.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nelso\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\nelso\\.nuget\\packages\\microsoft.aspnetcore.authorization\\2.2.0\\microsoft.aspnetcore.authorization.2.2.0.nupkg.sha512",
